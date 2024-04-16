@@ -1,15 +1,15 @@
 ### Hi 👋, I'm Grishma
 
-📊 Passionate about transforming data into actionable insights, I thrive on leveraging analytical tools and techniques to address business needs effectively.
+📈  Passionate about transforming data into actionable insights, I thrive on leveraging analytical tools and techniques to address business needs effectively.
 
-📚 Currently pursuing a Masters in Information Technology and Analytics, anticipating graduation in December 2024.
+🎓 Currently pursuing a Masters in Information Technology and Analytics, anticipating graduation in December 2024.
 
-👩‍💻 Work Experience
+💼 Work Experience
 In my previous role, I conducted detailed data analyses to extract valuable insights and improve business performance. Collaborating cross-functionally, I contributed to the development and implementation of innovative solutions to address challenges and drive growth.
 
 Through internships, I gained hands-on experience in data visualization and reporting, honing my skills in translating complex data into understandable and actionable insights.
 
-⚒️ Skills & Tools
+⚒ Skills & Tools
 Proficient in SQL, Python, and R for data analysis and manipulation. Experienced in using visualization tools such as Tableau and Power BI to create informative dashboards and reports. Familiar with statistical analysis and machine learning concepts.
 
 🔖 Currently Learning
