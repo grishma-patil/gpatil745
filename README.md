@@ -1,7 +1,4 @@
-### Hi, I'm Grishma 👋
-
-<!--
-**gpatil745/gpatil745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋, I'm Grishma
 
 📊 Passionate about transforming data into actionable insights, I thrive on leveraging analytical tools and techniques to address business needs effectively.
 
@@ -19,4 +16,8 @@ Proficient in SQL, Python, and R for data analysis and manipulation. Experienced
 Furthering my knowledge in statistical modeling and predictive analytics.
 Exploring advanced data visualization techniques for enhanced storytelling.
 Strengthening my understanding of business intelligence tools for comprehensive data analysis and reporting.
+<!--
+**gpatil745/gpatil745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
